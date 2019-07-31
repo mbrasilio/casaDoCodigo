@@ -34,7 +34,6 @@ Execute a "URL Mágica" para cadastrar produtos e um usuario padrão (Login: adm
 	http://localhost:8080/casadocodigo/url-magica-maluca-oajksfbvad6584i57j54f9684nvi658efnoewfmnvowefnoeijn 
 ```
 
-
 ## SQL para geração das tables
 
 Se preferir gerar o banco, seguem os comandos SQL para o banco MySQL:
