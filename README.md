@@ -1,6 +1,6 @@
 ## Ambiente 
 
- Aplicação foi feita com JRE8 9git branch
+ Aplicação foi feita com JRE8 e Tomcat 9
  
 ## MySQL
 
